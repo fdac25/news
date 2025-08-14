@@ -37,7 +37,7 @@
 * **  Zoom link above  ** and in MK524
 * **  TTh 09:45-11:00
 * **Instructors:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)  (office hours - upon request)
-* **TAs:**  TBD
+* **TAs:**  Shayana Shrestha  [sshres25@vols.utk.edu](mailto:sshres25@vols.utk.edu)
 * * [** Syllabus **](https://github.com/fdac25/news/blob/master/course.pdf)
 * **Need help?**
 
