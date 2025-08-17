@@ -24,11 +24,11 @@
 
 
 # Information for remote participation via Zoom / Discord
-   - [Recorded lectures](TBD)
+   - [Recorded lectures](https://liveutk-my.sharepoint.com/:f:/g/personal/audris_utk_edu/EnYinzieGoVBiBwzPieeQ04BJDaSfphxXDj8f8El_pEZdw?e=o29S0E)
    
-   - Join from a PC, Mac, iPad, iPhone or Android device: Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345 Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 276 644 8345
+   - Join from a PC, Mac, iPad, iPhone or Android device: Please click this URL to start or join. https://tennessee.zoom.us/j/85156123112 Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 851 5612 3112
 
- - Join the Discord server from this [link](TBD)
+ - Join the Discord server from this [link](https://discord.gg/CjyNeXfaGH)
 
 
 
