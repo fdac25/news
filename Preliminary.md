@@ -32,17 +32,18 @@
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository
 
-## Access your githup repo in collab notebook
+## Learn how to access your githup repo in collab notebook
 ### Option 1
 Open a line code in your notebook in google colab and run this :
 ```
 from google.colab import drive
 drive.mount('/content/drive')
 ```
+
 Go to your Files in Google.colab and create a new folder with your repository name with this path :
 ```
 Files/Content/"YOUR TEMPLATE NAME"
-``
+```
 Then follow these steps:
 
 - open google colab and create a notebook.ipynb OR use that notebook you using currently.
