@@ -32,7 +32,7 @@
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository
 
-## Learn how to access your githup repo in collab notebook
+## Learn how to access your github repo in collab notebook
 ### Option 1
 Open a line code in your notebook in google colab and run this :
 ```
@@ -61,7 +61,7 @@ You can find the right path of your repository from this path :
 - It will clone all of your data and everything that you want from GitHub to Google.colab
 
 ### Option 2
-Create a personal access token as mentioned [here]().
+Create a personal access token as mentioned [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
 
 Once done, just run in your notebook
 ```
