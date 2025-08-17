@@ -1,4 +1,4 @@
-# News CS445/546 09:45AM-11:00AM 	MKB-524 	
+# News CS445/545 09:45AM-11:00AM 	MKB-524 	
 # Class on Aug 21
  - Please accept your [invitation to fdac25 organization](https://github.com/orgs/fdac25) while logged in to GH via handle you used to submit pull request
  - If you have not done so yet, please accept github fdac25 invitation
