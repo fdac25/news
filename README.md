@@ -13,13 +13,16 @@
        - [here](https://huggingface.co/organizations/fdac25/share/aJKSWpJfUHnMwudRlEfXrsdMBfRqgwnNLH)
    - Create your github account 
       - fork repo students 
-      - create your utid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
+      - create your netidThank you for reaching out and sharing more about yourself. The room is still available, and we’d be happy to hold it for you. To secure your spot, you’ll just need to fill out the application first. Once you arrive on September 5th, we can finalize everything by signing the lease in person.
+
+Please let me know if you’d like me to send you the application form and any additional details. I can also provide photos of the room and common areas if you’d like..md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
         see per fdac25/students/README.md, and
       - include your hugging face id like this on a separate line: hfh: Audris
       - include your github id like this on a separate line: gh: audrism
       - [upload your
         your public ssh key to your account on github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account}. Once done, please
 	  - submit a pull request to fdac25/students
+    - Submit the URL to you netid.md file in Canvas.
    - Make sure you do it a day before the next class so we can start ready
 
 
