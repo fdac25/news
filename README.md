@@ -13,13 +13,16 @@
        - [here](https://huggingface.co/organizations/fdac25/share/aJKSWpJfUHnMwudRlEfXrsdMBfRqgwnNLH)
    - Create your github account 
       - fork repo students 
-      - create your utid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
+      - create your netid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
         see per fdac25/students/README.md, and
-      - include your hugging face id like this on a separate line: hfh: Audris
-      - include your github id like this on a separate line: gh: audrism
+      - include your hugging face id like this on a separate line:
+      - 	Example: hfh: Audris
+      - include your github id like this on a separate line:
+      - 	Example: gh: audrism
       - [upload your
         your public ssh key to your account on github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account}. Once done, please
 	  - submit a pull request to fdac25/students
+    - Submit the URL of your Pull Request in Canvas.
    - Make sure you do it a day before the next class so we can start ready
 
 
