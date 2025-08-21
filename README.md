@@ -5,7 +5,7 @@
       - the file has correct entries (if not, fix by editing your file and submit another PR):
 ```
    gh: githubid
-   hg: huggingfaceid
+   hfh: huggingfaceid
 ```
  - Please accept your [invitation to fdac25 organization](https://github.com/orgs/fdac25) while logged in to GH via handle you used to submit pull request
  - [Introductory lecture](https://github.com/fdac25/lectures/blob/master/prelim.pdf)
