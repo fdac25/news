@@ -1,7 +1,13 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 # Class on Aug 21
+ - *** This is tgraded first assignment*** If you have not received your invitation please:
+      - make sure you submitted the PR and your netid.md ifile is in fdac25/students
+      - the file has correct entries:
+```
+   gh: githubid
+   hg: huggingfaceid
+```
  - Please accept your [invitation to fdac25 organization](https://github.com/orgs/fdac25) while logged in to GH via handle you used to submit pull request
- - If you have not done so yet, please accept github fdac25 invitation
  - [Introductory lecture](https://github.com/fdac25/lectures/blob/master/prelim.pdf)
  - [Critical Tools](https://github.com/fdac25/lectures/blob/master/tools.pdf)
  - [Version Control](https://github.com/fdac25/lectures/blob/master/version_control-FDAC.pdf)
