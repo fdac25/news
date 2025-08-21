@@ -1,6 +1,6 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 # Class on Aug 21
- - *** This is a graded assignment: will take points off if not completed by Monday *** If you have not received your invitation please:
+ - *** This is a graded assignment: will take points off if not completed by Monday, Aug 25 --- no exceptions *** If you have not received your invitation please:
       - make sure you submitted the PR and your netid.md ifile is in fdac25/students
       - the file has correct entries (if not, fix by editing your file and submit another PR):
 ```
