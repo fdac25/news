@@ -1,4 +1,9 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
+
+# Class on Aug 25
+  - as of Aug 22: issues with bcurry8, crader6 gcarson1 ggill5 glakshma jdisalvo jmalinen rsanz suppalap vjoshi2
+  - please fix
+
 # Class on Aug 21
  - *** This is a graded assignment: will take points off if not completed by Monday, Aug 25 --- no exceptions *** If you have not received your invitation please:
       - make sure you submitted the PR and your netid.md ifile is in fdac25/students
@@ -8,6 +13,7 @@
    hfh: huggingfaceid
 ```
  - Please accept your [invitation to fdac25 organization](https://github.com/orgs/fdac25) while logged in to GH via handle you used to submit pull request
+ - [recording](https://tennessee.zoom.us/rec/share/bKtb2a2roJmAEvu0iElAtCB9OrUXCjbBvDjgBVSMcfzJNcjx1lfhYffz7gc2Kitx.qMrZM3mpwE8kBHmP?startTime=1755783895000)
  - [Introductory lecture](https://github.com/fdac25/lectures/blob/master/prelim.pdf)
  - [Critical Tools](https://github.com/fdac25/lectures/blob/master/tools.pdf)
  - [Version Control](https://github.com/fdac25/lectures/blob/master/version_control-FDAC.pdf)
