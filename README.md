@@ -1,8 +1,11 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 
 # Class on Aug 25
-  - as of Aug 22: issues with bcurry8, crader6 gcarson1 ggill5 glakshma jdisalvo jmalinen rsanz suppalap vjoshi2
-  - please fix
+  - as of Aug 22
+     - issues with bcurry8, crader6 gcarson1 ggill5 glakshma jdisalvo jmalinen rsanz suppalap vjoshi2
+     - still no PR for: jbrow327 dchupryn cdamron2 dpate125 dpate122 mphan2 yhb368 asalasva wsessoms asmit494 ctucke24 jchen122 wdougla4 
+kmahajan spate200 tsomani nupadhy3
+
 
 # Class on Aug 21
  - *** This is a graded assignment: will take points off if not completed by Monday, Aug 25 --- no exceptions *** If you have not received your invitation please:
