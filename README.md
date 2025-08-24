@@ -1,4 +1,18 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
+
+
+# Class on Aug 26
+ - Boasters for class project (if you have an idea for the class   project, please commit to fdac25/FinalProjectPitches)
+ - Work on fdac25/Practice0: due before class on Sep 4
+    - It involves 
+      - forking
+      - completing notebook in your browser 
+      - creating pull request from your fork
+   - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
+ - [Version Control](https://github.com/fdac24/lectures/blob/master/version_control-FDAC.pdf)
+ - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
+
+
 # Class on Aug 21
  - Please accept your [invitation to fdac25 organization](https://github.com/orgs/fdac25) while logged in to GH via handle you used to submit pull request
  - If you have not done so yet, please accept github fdac25 invitation
