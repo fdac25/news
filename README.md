@@ -1,6 +1,7 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 
 
+
 # Class on Aug 26
  - Boasters for class project (if you have an idea for the class   project, please commit to fdac25/FinalProjectPitches)
  - Work on fdac25/Practice0: due before class on Sep 4
@@ -9,13 +10,25 @@
       - completing notebook in your browser 
       - creating pull request from your fork
    - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
- - [Version Control](https://github.com/fdac24/lectures/blob/master/version_control-FDAC.pdf)
- - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
+   - [Version Control](https://github.com/fdac24/lectures/blob/master/version_control-FDAC.pdf)
+   - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
+  - as of Aug 22
+     - issues with bcurry8, crader6 gcarson1 ggill5 glakshma jdisalvo jmalinen rsanz suppalap vjoshi2
+     - still no PR for: jbrow327 dchupryn cdamron2 dpate125 dpate122 mphan2 yhb368 asalasva wsessoms asmit494 ctucke24 jchen122 wdougla4 
+kmahajan spate200 tsomani nupadhy3
+
 
 
 # Class on Aug 21
+ - *** This is a graded assignment: will take points off if not completed by Monday, Aug 25 --- no exceptions *** If you have not received your invitation please:
+      - make sure you submitted the PR and your netid.md ifile is in fdac25/students
+      - the file has correct entries (if not, fix by editing your file and submit another PR):
+```
+   gh: githubid
+   hfh: huggingfaceid
+```
  - Please accept your [invitation to fdac25 organization](https://github.com/orgs/fdac25) while logged in to GH via handle you used to submit pull request
- - If you have not done so yet, please accept github fdac25 invitation
+ - [recording](https://tennessee.zoom.us/rec/share/bKtb2a2roJmAEvu0iElAtCB9OrUXCjbBvDjgBVSMcfzJNcjx1lfhYffz7gc2Kitx.qMrZM3mpwE8kBHmP?startTime=1755783895000)
  - [Introductory lecture](https://github.com/fdac25/lectures/blob/master/prelim.pdf)
  - [Critical Tools](https://github.com/fdac25/lectures/blob/master/tools.pdf)
  - [Version Control](https://github.com/fdac25/lectures/blob/master/version_control-FDAC.pdf)
@@ -24,25 +37,28 @@
    - Create a HuggingFace account at https://huggingface.co/
        - search for organisations by name (fdac25) in the search bar on the hub. the name will appear under the “Organizations” section
        - request to join fdac25 by clicking on the button shown in the screenshot below or
-       - [here](https://huggingface.co/organizations/fdac25/share/ebNXzPATmClCxGjbxQKIdQBDQxBQjERcOV)
+       - [here](https://huggingface.co/organizations/fdac25/share/aJKSWpJfUHnMwudRlEfXrsdMBfRqgwnNLH)
    - Create your github account 
       - fork repo students 
-      - create your utid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
+      - create your netid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
         see per fdac25/students/README.md, and
-      - include your hugging face id like this on a separate line: hfh: Audris
-      - include your github id like this on a separate line: gh: audrism
+      - include your hugging face id like this on a separate line:
+      - 	Example: hfh: Audris
+      - include your github id like this on a separate line:
+      - 	Example: gh: audrism
       - [upload your
         your public ssh key to your account on github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account}. Once done, please
 	  - submit a pull request to fdac25/students
+    - Submit the URL of your Pull Request in Canvas.
    - Make sure you do it a day before the next class so we can start ready
 
 
 # Information for remote participation via Zoom / Discord
-   - [Recorded lectures](TBD)
+   - [Recorded lectures](https://liveutk-my.sharepoint.com/:f:/g/personal/audris_utk_edu/EnYinzieGoVBiBwzPieeQ04BJDaSfphxXDj8f8El_pEZdw?e=o29S0E)
    
-   - Join from a PC, Mac, iPad, iPhone or Android device: Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345 Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 276 644 8345
+   - Join from a PC, Mac, iPad, iPhone or Android device: Please click this URL to start or join. https://tennessee.zoom.us/j/85156123112 Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 851 5612 3112
 
- - Join the Discord server from this [link](TBD)
+ - Join the Discord server from this [link](https://discord.gg/CjyNeXfaGH)
 
 
 

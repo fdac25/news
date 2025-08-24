@@ -32,12 +32,45 @@
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository
 
+## Learn how to access your github repo in collab notebook
+### Option 1
+Open a line code in your notebook in google colab and run this :
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
 
-Feedback will be given in the pull request, so please respond with
-your thoughts and questions!  You are welcome to open the pull
-request as the work is still in-progress if you are stuck and want
-to ask a question – just mention `@audris` with the question to make
-sure I know to look at it sooner.
+Go to your Files in Google.colab and create a new folder with your repository name with this path :
+```
+Files/Content/"YOUR TEMPLATE NAME"
+```
+Then follow these steps:
+
+- open google colab and create a notebook.ipynb OR use that notebook you using currently.
+
+- open code and type
+```
+! apt-get install git
+!git clone https://github.com/"YOUR USER NAME"/"YOUR GITHUB REPOSITORY WANT TO ADD "
+```
+You can find the right path of your repository from this path :
+- open your GitHub
+- go to the repository you want to clone
+- click on CODE ( the green button ) on the right corner of your repository and then click on HTTPS
+- you will see the URL then click on Copy
+- It will clone all of your data and everything that you want from GitHub to Google.colab
+
+### Option 2
+Create a personal access token as mentioned [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
+
+Once done, just run in your notebook
+```
+pat = 'Token here'
+!git clone https://{pat}@github.com/username/repo.git
+```
+### Option 3
+You can simply go to Google Colab and you can choose 'GitHub' on the box which you can see when you just go to the Colab site and login. Colab will automatically redirect you to github in order to authorize your github account. Then you can choose repository to use at Google Colab!
+
 
 <!-- Links -->
 [deliberate-practice]:http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html
