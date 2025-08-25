@@ -14,7 +14,7 @@
    - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
   - as of Aug 25, 5PM EST
      - issues with: bcurry8 crader6 gcarson1 ggill5 glakshma jbrow327 jdisalvo jmalinen rsanz spate201 suppalap vjoshi2 spate200 
-     - still no PR for: cdamron2 mphan2 asalasva wsessoms asmit494 ctucke24 jchen122 wdougla4 tsomani nupadhy3
+     - still no PR for: cdamron2 mphan2 asalasva wsessoms asmit494 ctucke24 jchen122 wdougla4 nupadhy3
 
 
 
