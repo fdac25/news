@@ -14,7 +14,6 @@
    - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
   - as of Aug 26, 11:27AM EST
      - issues with: crader6 glakshma jbrow327 jchen122 jdisalvo rsanz spate201 vjoshi2 (please make gh: and hfh: on separate lines, exactly these prefixes)
-     - still no PR for: cdamron2 nupadhy3
 
 
 
