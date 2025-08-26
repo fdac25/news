@@ -12,8 +12,8 @@
    - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
    - [Version Control](https://github.com/fdac24/lectures/blob/master/version_control-FDAC.pdf)
    - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
-  - as of Aug 26, 8:30AM EST
-     - issues with: asalasva bcurry8 crader6 gcarson1 ggill5 glakshma jbrow327 jchen122 jdisalvo jmalinen rsanz spate201 suppalap vjoshi2 spate200 
+  - as of Aug 26, 11:27AM EST
+     - issues with: crader6 gcarson1 ggill5 glakshma jbrow327 jchen122 jdisalvo rsanz spate201 vjoshi2
      - still no PR for: cdamron2 nupadhy3
 
 
