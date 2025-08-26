@@ -13,7 +13,7 @@
    - [Version Control](https://github.com/fdac24/lectures/blob/master/version_control-FDAC.pdf)
    - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
   - as of Aug 26, 11:27AM EST
-     - issues with: crader6 gcarson1 ggill5 glakshma jbrow327 jchen122 jdisalvo rsanz spate201 vjoshi2
+     - issues with: crader6 gcarson1 ggill5 glakshma jbrow327 jchen122 jdisalvo rsanz spate201 vjoshi2 (please make gh: and hfh: on separate lines, exatly these prefixes)
      - still no PR for: cdamron2 nupadhy3
 
 
