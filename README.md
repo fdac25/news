@@ -1,11 +1,34 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 
 
+# Class on Sep 2
+ - Question regarding MP1
+ - Boasters for class project
+ - World of Code dataset
+
+# 15 Groups for MP1
+1) tlatawie klam5 asahoo dpate125 jprebola kylwboma 
+2) kmahajan tduckwor jmalinen suppalap him2 
+3) jcordwel rchennai sjayapra gmorale2 sward47 cdamron2 
+4) cwhit163 aghazi2 teisenba pbhatt1 jaktseat spaladu1 
+5) criley16 vjoshi2 jchen122 smohyud1 spate200 wdougla4 
+5) asmit494 jql794 ctucke24 eyang7 bpatel40 jweil 
+7) rperry21 mcao12 mmirusma bkovach spate201 mbyest 
+8) tsomani ashittu gevans16 jdisalvo iweaver2 ndawson2 
+9) jbrow327 therren2 tolson4 rsanz gcarson1 
+10) xhu48 cramosme wsessoms lfarthi1 yhb368 tbissaho 
+11) jdodd8 mphan2 mpatriki afeyerhe jprater8 jshastid 
+12) danrjoy dmoon4 jtiemey2 jhowar72 rpate112 wsv346 
+13) rpatel92 rtrenner glakshma vkonjet1 jvenkat1 zmcknigh 
+14) ggill5 sshriva2 lsd728 txh512 crader6 ahuang16 
+15) bturne50 bcurry8 dchupryn ajoshi21 dpate122 
+16) nupadhy3 asalasva hbhidya
+
+
 # Class on Aug 28
  - See the simple [text analysis](https://github.com/fdac25/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
  - Introducing the MiniProject1 process and template
- - Think about selecting the course project (see course projects
-   for the prior years at fdac2[0-3], fdac1[6-9], fdac2[0-4], fdac for inspiration)
+ - Think about selecting the course project (see course projects for the prior years at fdac2[0-3], fdac1[6-9], fdac2[0-4], fdac for inspiration)
  - Boasters for class project (if you have an idea for the class   project, please commit to fdac25/FinalProjectPitches)
 
 # Class on Aug 26
