@@ -1,6 +1,12 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 
 
+# Class on Aug 28
+ - See the simple [text analysis](https://github.com/fdac25/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
+ - Introducing the MiniProject1 process and template
+ - Think about selecting the course project (see course projects
+   for the prior years at fdac2[0-3], fdac1[6-9], fdac2[0-4], fdac for inspiration)
+ - Boasters for class project (if you have an idea for the class   project, please commit to fdac25/FinalProjectPitches)
 
 # Class on Aug 26
  - Boasters for class project (if you have an idea for the class   project, please commit to fdac25/FinalProjectPitches)
