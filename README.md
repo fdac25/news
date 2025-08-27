@@ -12,8 +12,8 @@
    - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
    - [Version Control](https://github.com/fdac24/lectures/blob/master/version_control-FDAC.pdf)
    - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
-  - as of Aug 26, 11:27AM EST
-     - issues with: crader6 glakshma jbrow327 jchen122 jdisalvo rsanz spate201 vjoshi2 (please make gh: and hfh: on separate lines, exactly these prefixes)
+  - as of Aug 27, 06:40AM EST
+     - still issues with: crader6 glakshma jbrow327 jdisalvo rsanz spate201 vjoshi2 (please make gh: and hfh: on separate lines, exactly these prefixes, and submit new PR)
 
 
 
