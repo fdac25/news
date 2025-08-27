@@ -18,10 +18,8 @@
    - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
    - [Version Control](https://github.com/fdac24/lectures/blob/master/version_control-FDAC.pdf)
    - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
-  - as of Aug 22
-     - issues with bcurry8, crader6 gcarson1 ggill5 glakshma jdisalvo jmalinen rsanz suppalap vjoshi2
-     - still no PR for: jbrow327 dchupryn cdamron2 dpate125 dpate122 mphan2 yhb368 asalasva wsessoms asmit494 ctucke24 jchen122 wdougla4 
-kmahajan spate200 tsomani nupadhy3
+  - as of Aug 27, 06:40AM EST
+     - still issues with: crader6 glakshma jbrow327 jdisalvo rsanz spate201 vjoshi2 (please make gh: and hfh: on separate lines, exactly these prefixes, and submit new PR)
 
 
 
