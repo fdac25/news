@@ -6,6 +6,7 @@
  - Boasters for class project
  - World of Code dataset
  - Sep 1 10AM: outstanding invitations @bbamyi, @meitantei63,@minhcaooo34,@tlatawiec,@jakobDallas,@AgustinSV,@CTucker01: please accept ASAP
+ - glakshma vjoshi2 are still not using gh: and hfh: markings correctly
 
 # 15 Groups for MP1
 1) tlatawie klam5 asahoo dpate125 jprebola kylwboma 
