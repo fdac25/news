@@ -1,6 +1,46 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 
+# Class on Oct 2
+ - Introduced MP2
+ - Finish class project proposal, [see instructions](https://github.com/fdac25/FinalProjectPitches/blob/master/README.md)
 
+# Class on Sept 30
+ - Work on class project proposal
+   
+# Class on Sep 25
+ - Questions on class project proposal
+
+# Class on Sep 23
+ - Questions on class project proposal
+
+# Class on Sep 18
+ - Data discovery
+ - Data storage
+ - Cloud computing
+
+# Class on Sep 16
+ - Presenting MP1 results by the representatives of each group for
+   entire class
+   - the presentations will go in group order
+
+# Class on Sep 11
+- Presenting MP1 results within the assigned groups
+- Work on class project proposal
+
+# Class on Sep 9
+ - Boasters for class project
+ - Final day to form teams for the class project
+ - Continue work on on MP1
+ 
+# Class on Sep 4
+ - Boasters for class project
+ - World of Code dataset
+ - Work on MP1, including discussing with your assigned peer
+ - Make sure you have
+   1. Forked fdac23/Miniproject1
+   1. Posted the idea for your analysis on your peer's fork
+   1. Responded to the idea that was posted by your peer
+  
 # Class on Sep 2
  - Question regarding MP1
  - Boasters for class project
