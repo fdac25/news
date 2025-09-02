@@ -61,10 +61,10 @@
 10) xhu48 cramosme wsessoms lfarthi1 yhb368 tbissaho 
 11) jdodd8 mphan2 mpatriki afeyerhe jprater8 jshastid 
 12) danrjoy dmoon4 jtiemey2 jhowar72 rpate112 wsv346 
-13) rpatel92 rtrenner glakshma vkonjet1 jvenkat1 zmcknigh 
-14) ggill5 sshriva2 lsd728 txh512 crader6 ahuang16 
+13) rpatel92 rtrenner glakshma vkonjet1 jvenkat1 
+14) ggill5 sshriva2 lsd728 txh512 crader6  
 15) bturne50 bcurry8 dchupryn ajoshi21 dpate122 
-16) nupadhy3 asalasva hbhidya
+16) nupadhy3 asalasva hbhidya ahuang16 zmcknigh 
 
 
 # Class on Aug 28
