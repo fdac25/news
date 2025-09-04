@@ -14,7 +14,6 @@
  - Questions on class project proposal
 
 # Class on Sep 18
- - Data discovery
  - Data storage
  - Cloud computing
 
@@ -34,13 +33,15 @@
  
 # Class on Sep 4
  - Boasters for class project
+ - Finish Data discovery
  - World of Code dataset
  - Work on MP1, including discussing with your assigned peer
  - Make sure you have
    1. Forked fdac23/Miniproject1
    1. Posted the idea for your analysis on your peer's fork
    1. Responded to the idea that was posted by your peer
-  
+  - invitation to fdac25 not yet accepted: @minhcaooo34
+    
 # Class on Sep 2
  - Question regarding MP1
  - Boasters for class project
