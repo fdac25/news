@@ -34,7 +34,7 @@
 # Class on Sep 4
  - Boasters for class project
  - Finish Data discovery
- - World of Code dataset
+ - Software Supply Chains and World of Code dataset
  - Work on MP1, including discussing with your assigned peer
  - Make sure you have
    1. Forked fdac23/Miniproject1
