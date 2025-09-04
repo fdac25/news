@@ -4,34 +4,36 @@
  - Introduced MP2
  - Finish class project proposal, [see instructions](https://github.com/fdac25/FinalProjectPitches/blob/master/README.md)
 
-# Class on Sept 30
+# Class on Sept 30: no lecture, no in-person
  - Work on class project proposal
    
-# Class on Sep 25
+# Class on Sep 25: Optional in-person
+ - Work on class project proposal
  - Questions on class project proposal
 
-# Class on Sep 23
+# Class on Sep 23: Optional in-person
+ - Work on class project proposal
  - Questions on class project proposal
 
-# Class on Sep 18
- - Data storage
+# Class on Sep 18: no remote participation
+ - Data Storage   
  - Cloud computing
-
-# Class on Sep 16
- - Presenting MP1 results by the representatives of each group for
+   
+# Class on Sep 16: no remote participation
+ - Presenting MP1 results by the representatives of each group for the
    entire class
    - the presentations will go in group order
 
-# Class on Sep 11
+# Class on Sep 11: no remote participation
 - Presenting MP1 results within the assigned groups
 - Work on class project proposal
 
-# Class on Sep 9
+# Class on Sep 9: no remote participation
  - Boasters for class project
  - Final day to form teams for the class project
  - Continue work on on MP1
  
-# Class on Sep 4
+# Class on Sep 4: no remote participation
  - Boasters for class project
  - Finish Data discovery
  - Software Supply Chains and World of Code dataset
