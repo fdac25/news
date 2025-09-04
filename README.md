@@ -42,7 +42,6 @@
    1. Forked fdac23/Miniproject1
    1. Posted the idea for your analysis on your peer's fork
    1. Responded to the idea that was posted by your peer
-  - invitation to fdac25 not yet accepted: @minhcaooo34
     
 # Class on Sep 2
  - Question regarding MP1
