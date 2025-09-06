@@ -25,7 +25,7 @@
    - the presentations will go in group order
 
 # Class on Sep 11: no remote participation
-- Presenting MP1 results within the assigned groups
+- Presenting MP1 results within the assigned groups and select one presentatio [via this issue](https://github.com/fdac25/MP1/issues/77)
 - Work on class project proposal
 
 # Class on Sep 9: no remote participation
