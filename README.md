@@ -32,6 +32,7 @@
  - Boasters for class project
  - Final day to form teams for the class project
  - Continue work on on MP1
+ - ***Still six forks missing for MP1!***
  
 # Class on Sep 4: no remote participation
  - Boasters for class project
