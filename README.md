@@ -22,9 +22,10 @@
 # Class on Sep 16: no remote participation
  - Presenting MP1 results by the representatives of each group for the
    entire class
-   - the presentations will go in group order
+   - the presentations will go in group order: 5m max!
 
 # Class on Sep 11: no remote participation
+- Finish LLM supply chains 
 - Still no MP1 forks for: sean-ward034 (GR3) tyblue18 (GR8)
 - Presenting MP1 results within the assigned groups and select one presentatio [via this issue](https://github.com/fdac25/MP1/issues/77)
 - Work on class project proposal
