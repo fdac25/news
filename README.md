@@ -23,6 +23,23 @@
  - Presenting MP1 results by the representatives of each group for the
    entire class
    - the presentations will go in group order: 5m max!
+   - Group Number: 1  : Kv-Lam
+   - Group Number: 2
+   - Group Number: 3  : jcordwel
+   - Group Number: 4  : melonchomp
+   - Group Number: 5  : Criley71
+   - Group Number: 6  : dtwilkey
+   - Group Number: 7  : brodiekovach
+   - Group Number: 8  : meitantei63
+   - Group Number: 9  : gcarson1
+   - Group Number: 10 : xhu48
+   - Group Number: 11
+   - Group Number: 12 : DanielJoy6
+   - Group Number: 13 : Vinni0627
+   - Group Number: 14 : Cameronr11
+   - Group number: 15 : Drowsystudent
+   - Group Number: 16 : zmcknigh
+
 
 # Class on Sep 11: no remote participation
 - Finish LLM supply chains 
