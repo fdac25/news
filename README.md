@@ -20,6 +20,7 @@
  - Cloud computing
    
 # Class on Sep 16: no remote participation
+ - [Class project participation](https://github.com/fdac25/FinalProjectPitches/blob/main/p2gn.md) Only 66 students are listed. Need to know projects for the remaining students.
  - Presenting MP1 results by the representatives of each group for the
    entire class
    - the presentations will go in group order: 5m max!
