@@ -1,6 +1,6 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 
-# Class on Oct 2
+# Class on Oct 2: no remote participation
  - Introduced MP2
  - Finish class project proposal, [see instructions](https://github.com/fdac25/FinalProjectPitches/blob/master/README.md)
 
@@ -16,8 +16,14 @@
  - Questions on class project proposal
 
 # Class on Sep 18: no remote participation
- - Data Storage   
- - Cloud computing
+   - [Class project participation](https://github.com/fdac25/FinalProjectPitches/blob/main/p2gn.md) Only 74 students are listed. Need to know projects for the remaining 15 students (afeyerhe asalasva ggill5 hbhidya him2 jbrow327 jchen122 jcordwel jmalinen jdisalvo mbyest mcao12 mphan2 nupadhy3 suppalap xhu48)
+   - finish presentations
+      - Group Number: 13 : Vinni0627
+      - Group Number: 14 : Cameronr11
+      - Group number: 15 : Drowsystudent
+      - Group Number: 16 : zmcknigh
+  - Data Storage   
+  - Cloud computing
    
 # Class on Sep 16: no remote participation
  - [Class project participation](https://github.com/fdac25/FinalProjectPitches/blob/main/p2gn.md) Only 66 students are listed. Need to know projects for the remaining students.
@@ -36,10 +42,6 @@
    - Group Number: 10 : xhu48
    - Group Number: 11 : frozensriracha
    - Group Number: 12 : DanielJoy6
-   - Group Number: 13 : Vinni0627
-   - Group Number: 14 : Cameronr11
-   - Group number: 15 : Drowsystudent
-   - Group Number: 16 : zmcknigh
 
 
 # Class on Sep 11: no remote participation
