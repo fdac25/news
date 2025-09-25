@@ -8,6 +8,7 @@
  - Work on class project proposal
    
 # Class on Sep 25: Optional in-person
+ - I'll be responding to any questions, grading inqueries  in person and over zoom
  - Work on class project proposal
  - Questions on class project proposal
 
