@@ -22,6 +22,7 @@
 # Class on Oct 16: no remote participation
  - Introduced MP2 Task 3
  - Complete MP2 Task 2
+ - Final project status updates: 2min max per project
 
 # Class on Oct 14: no lecture, no in-person
  - Work on MP2 Task 2
