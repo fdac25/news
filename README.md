@@ -9,9 +9,8 @@
  - Work on team project: Please make sure you document your work via issues/artifacts in your team repo
  - Questions, consultations
    
-
 # Class on Oct 23: no remote participation
- - Introduced MP2 Task 4
+ - Introduce MP2 Task 4
  - Complete MP2 Task 3
 
 # Class on Oct 21: optional in-person
@@ -19,8 +18,8 @@
  - Work on team project: Please make sure you document your work via issues/artifacts in your team repo
  - Questions, consultations
 
-# Class on Oct 16: no remote participation
- - Introduced MP2 Task 3
+# Class on Oct 16: participation will be tracked!
+ - Introduce MP2 Task 3
  - Complete MP2 Task 2
  - Final project status updates: 2min max per project
 
@@ -29,7 +28,7 @@
  - Work on team project: Please make sure you document your work via issues/artifacts in your team repo
 
 # Class on Oct 9: no remote participation
- - Introduced MP2 Task 2
+ - Introduce MP2 Task 2
  - Complete MP2 Task 1
 
 # Class on Oct 2: no remote participation
