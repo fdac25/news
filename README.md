@@ -5,13 +5,15 @@
  - Introduce MP3
 
 # Class on Oct 28: optional in-person
- - Work on MP2 Task 3
+ - Work on MP2 Task 4
  - Work on team project: Please make sure you document your work via issues/artifacts in your team repo
  - Questions, consultations
    
-# Class on Oct 23: no remote participation
+# Class on Oct 23: no remote participation, participation will be tracked!
  - Introduce MP2 Task 4
  - Complete MP2 Task 3
+ - Final project status updates: 2min max per project
+
 
 # Class on Oct 21: optional in-person
  - Work on MP2 Task 3
