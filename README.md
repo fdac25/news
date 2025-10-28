@@ -1,8 +1,28 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 
+# Class on Nov 25, Dec 2
+  - Final project presentations: [please sign up](https://github.com/fdac25/news/issues/4)
+
+# Class on Nov 18, 20
+  - Work on class projects
+        
+# Class on Nov 13: 
+  - Finish MP3 Part 2
+
+# Class on Nov 11: no remote participation
+  - Work in groups on MP3 Par2 2
+    
+# Class on Nov 6: no remote participation
+ - Complete MP3 Part 1
+ - Introduce MP3 Par2 2
+ - Qualitative analysis primer
+
+# Nov 4 no class, election day
+
 # Class on Oct 30: no remote participation
  - Complete MP2 Task 4
- - Introduce MP3
+ - Introduce MP3 Part 1
+ - Qualitative analysis primer
 
 # Class on Oct 28: optional in-person
  - Work on MP2 Task 4
