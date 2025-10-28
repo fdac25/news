@@ -14,7 +14,7 @@
     
 # Class on Nov 6: no remote participation
  - Complete MP3 Part 1
- - Introduce MP3 Par2 2
+ - Introduce MP3 Part 2
  - Qualitative analysis primer
 
 # Nov 4 no class, election day
