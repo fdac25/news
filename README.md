@@ -5,12 +5,12 @@
 
 # Class on Nov 18, 20
   - Work on class projects
-        
+
 # Class on Nov 13: 
   - Finish MP3 Part 2
 
 # Class on Nov 11: no remote participation
-  - Work in groups on MP3 Par2 2
+  - Work in groups on MP3 Part 2
     
 # Class on Nov 6: no remote participation
  - Complete MP3 Part 1
