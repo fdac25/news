@@ -20,7 +20,7 @@
 # Nov 4 no class, election day
 
 # Class on Oct 30: no remote participation
- - Complete MP2 Task 4
+ - Complete MP2 Task 4 by Nov 2
  - Introduce MP3 Part 1
  - Qualitative analysis primer
 
