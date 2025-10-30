@@ -7,21 +7,20 @@
   - Work on class projects
 
 # Class on Nov 13: 
+  - Work in groups on MP3 Part 2
   - Finish MP3 Part 2
 
 # Class on Nov 11: no remote participation
-  - Work in groups on MP3 Part 2
+  - Complete MP3 Part 1
+  - Introduce Part 2
     
 # Class on Nov 6: no remote participation
- - Complete MP3 Part 1
- - Introduce MP3 Part 2
- - Qualitative analysis primer
+ - Introduce MP3 Part 1
 
 # Nov 4 no class, election day
 
 # Class on Oct 30: no remote participation
  - Complete MP2 Task 4 by Nov 2
- - Introduce MP3 Part 1
  - Qualitative analysis primer
 
 # Class on Oct 28: optional in-person
