@@ -23,6 +23,7 @@
   - EPASites
   - Roomba
   - Cybersecurity
+  - Tennis
   - Finish MP3 Part 3 (Nov 25)
   - Final project presentations: [please sign up](https://github.com/fdac25/news/issues/4)
 
