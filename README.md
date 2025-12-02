@@ -1,7 +1,7 @@
 # News CS445/545 09:45AM-11:00AM 	MKB-524 	
 
 # Dec 2
-  	- Tennis
+  - Tennis
   - Brawlhalla
   - Bird Calling
   - 2-AMP Automated Trading
